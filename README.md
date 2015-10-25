@@ -5,3 +5,10 @@ Placeholder for upcoming documentation
 
 Image: Ubuntu <br>
 Documentation: http://elinux.org/BeagleBoardUbuntu
+
+# Plan
+- Image latest ubuntu
+- Configure wireless
+- Configure docker
+
+
